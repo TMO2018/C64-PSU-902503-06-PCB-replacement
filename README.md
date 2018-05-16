@@ -7,4 +7,4 @@ Rev 0.1.1.1 release: Fuer Schaltregler Traco Power TSR 3-1250 (Schaltplan entspr
 
 Rev 0.1.2.1 release: Fuer Schaltregler Traco Power TSR 3-1250 oder Murata OKR-T/3-W12. Fuer den Murata Regler sind zusaetzliche Keramikkondensatoren im Layout beruecksichtigt.
 
-Rev 0.2.0.1 developement: Für Schaltregler Murata OKX-T/3-D12 (RM 2,54). Fuer den Murata Regler sind zusaetzliche Keramikkondensatoren im Layout beruecksichtigt.
+Rev 0.2.0.1 release: Für Schaltregler Murata OKX-T/3-D12 (RM 2,54). Fuer den Murata Regler sind zusaetzliche Keramikkondensatoren im Layout beruecksichtigt.
