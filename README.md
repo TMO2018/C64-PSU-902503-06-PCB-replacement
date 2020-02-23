@@ -1,4 +1,4 @@
-# c64-psu-902503-06-austauschplatine
+# C64 PSU 902503-06 PCB replacement
 PCB replacement for the Commodore PSU 902503-06
 
 Rev 0.1.3: with Murata OKR-T/3-W12 or Traco TSR 3-1250
