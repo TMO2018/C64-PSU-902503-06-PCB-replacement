@@ -1,0 +1,39 @@
+Rev. 0.2.2 -> aktuell
+- Layout für Regler Lineage Power Austin Minilynx AXA003A0X 5A RM2,54 angepasst
+- Keramikkondensator C5 verschoben
+- Bohrungen F1, F2 von 1,05 mm auf 1,35 mm und Pads von 2mm auf 2,5mm vergrößert
+- Pads in Kuperflächen auf Wärmefallen geändert
+- Pads C1, C2, C3, C4 vergrößert
+- Bohrung und Pads RV1, RV2 vergrößert
+
+Rev. 0.2.1
+- Layout geändert
+- Keramikkondensatoren in Größe SMD 1210
+
+Rev. 0.2.0.1
+- Bohrungen für den Brückengleichrichter vergrößert
+
+Rev. 0.2
+- für den Einsatz eines Murata OKX-T/3-D12N-C oder OKX-T/5-D12N-C Reglers (RM 2,54)
+
+Rev. 0.1.3 -> aktuell
+- C5, C6, C7 von 0805 auf 1210 geändert
+- Anpassungen im Layout
+
+Rev. 0.1.2.1
+- Bohrungen für den Brückengleichrichter vergrößert
+
+Rev. 0.1.2
+- C5,C6,C7 eingefügt für den Einsatz eines Murata OKR-T/3-W12 Reglers (bei Traco TSR3-1250 werden C5,C6,C7 nicht benötigt)
+
+Rev. 0.1.1.1
+- Bohrungen für den Brückengleichrichter vergrößert
+
+Rev. 0.1.1
+- Footprints der Kondensatoren ausgetauscht, wg. zu kleiner Lötpads
+- Bohrung der Induktivität verkleinert
+
+Rev 0.1
+- Initial release für Traco TSR3-1250 Regler
+
+
