@@ -1,0 +1,24 @@
+Kicad 9.0.7
+
+Rev. 0.2.2
+- Layout fur Regler Lineage Power Austin Minilynx AXA003A0XZ 5A RM2,54 angepasst
+- Keramikkondensator C5 verschoben
+- Bohrungen F1, F2 von 1,05 mm auf 1,35 mm und Pads von 2mm auf 2,5mm vergrößert
+- Pads in Kuperflächen auf Wärmefallen geändert
+- Pads C1, C2, C3, C4 vergrößert
+- Bohrung und Pads RV1, RV2 vergrößert
+
+Rev. 0.2.1
+- Layout geändert
+- Keramikkondensatoren in Größe SMD 1210
+
+Rev. 0.2.0.1
+- Bohrungen für den Brückengleichrichter vergrößert
+
+Rev. 0.2
+- Layout für Regler Murata OKX-T/3-D12N-C Reglers und OKX-T/5-D12N-C RM2,54 angepasst
+
+
+
+
+
